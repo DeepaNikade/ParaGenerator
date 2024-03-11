@@ -1,0 +1,27 @@
+*{
+    background-color: rgb(225, 245, 249);
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    
+    padding: 20px 0px;
+    /* overflow-x:hidden ; */
+}
+input{
+    margin: 10px;
+    padding: 8px 20px;
+    border-radius: 10px;
+}
+button{
+    padding: 8px 20px;
+    border-radius: 10px;
+    background-color: rgb(23, 23, 71);
+    color: white;
+    cursor: pointer;
+}
+p{
+    color: rgb(90, 4, 4);
+    font-weight: bold;
+    padding: 10px;
+}
